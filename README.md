@@ -4,7 +4,3 @@
 
 123456
 
-
-
-QWERTTTTTTYYYYYY
-
