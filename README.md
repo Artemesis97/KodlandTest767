@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ASD
 
 
@@ -7,4 +8,3 @@
 
 
 QWERTTTTTTYYYYYY
-
